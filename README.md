@@ -1,1 +1,3 @@
 # SpeedTester
+
+Penitus celeritas : Latein 
